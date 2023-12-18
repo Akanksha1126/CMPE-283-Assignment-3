@@ -1,0 +1,274 @@
+[ 7166.902256] CPUID(0x4FFFFFFE) EXIT(0) is called 11 times.
+[ 7166.910211] CPUID(0x4FFFFFFE) EXIT(1) is called 10307 times.
+[ 7166.918140] CPUID(0x4FFFFFFE) EXIT(2) is called 0 times.
+[ 7166.925900] CPUID(0x4FFFFFFE) EXIT(3) is called 0 times.
+[ 7166.933622] CPUID(0x4FFFFFFE) EXIT(4) is called 0 times.
+[ 7166.941327] CPUID(0x4FFFFFFE) EXIT(5) is not defined in KVM
+[ 7166.949199] CPUID(0x4FFFFFFE) EXIT(6) is not defined in KVM
+[ 7166.956963] CPUID(0x4FFFFFFE) EXIT(7) is called 7452 times.
+[ 7166.964644] CPUID(0x4FFFFFFE) EXIT(8) is called 0 times.
+[ 7166.972233] CPUID(0x4FFFFFFE) EXIT(9) is called 0 times.
+[ 7166.979350] CPUID(0x4FFFFFFE) EXIT(10) is called 42580 times.
+[ 7166.986797] CPUID(0x4FFFFFFE) EXIT(11) is not defined in KVM
+[ 7166.994158] CPUID(0x4FFFFFFE) EXIT(12) is called 3887 times.
+[ 7167.001221] CPUID(0x4FFFFFFE) EXIT(13) is called 0 times.
+[ 7167.008562] CPUID(0x4FFFFFFE) EXIT(14) is called 0 times.
+[ 7167.015822] CPUID(0x4FFFFFFE) EXIT(15) is called 0 times.
+[ 7167.023221] CPUID(0x4FFFFFFE) EXIT(16) is called 0 times.
+[ 7167.030612] CPUID(0x4FFFFFFE) EXIT(17) is not defined in KVM
+[ 7167.037911] CPUID(0x4FFFFFFE) EXIT(18) is called 0 times.
+[ 7167.044872] CPUID(0x4FFFFFFE) EXIT(19) is called 0 times.
+[ 7167.051816] CPUID(0x4FFFFFFE) EXIT(20) is called 0 times.
+[ 7167.058985] CPUID(0x4FFFFFFE) EXIT(21) is called 0 times.
+[ 7167.066446] CPUID(0x4FFFFFFE) EXIT(22) is called 0 times.
+[ 7167.073692] CPUID(0x4FFFFFFE) EXIT(23) is called 0 times.
+[ 7167.081205] CPUID(0x4FFFFFFE) EXIT(24) is called 0 times.
+[ 7167.088521] CPUID(0x4FFFFFFE) EXIT(25) is called 0 times.
+[ 7167.095580] CPUID(0x4FFFFFFE) EXIT(26) is called 0 times.
+[ 7167.102289] CPUID(0x4FFFFFFE) EXIT(27) is called 0 times.
+[ 7167.109130] CPUID(0x4FFFFFFE) EXIT(28) is called 80101 times.
+[ 7167.115835] CPUID(0x4FFFFFFE) EXIT(29) is called 2 times.
+[ 7167.122585] CPUID(0x4FFFFFFE) EXIT(30) is called 936899 times.
+[ 7167.129221] CPUID(0x4FFFFFFE) EXIT(31) is called 221 times.
+[ 7167.136134] CPUID(0x4FFFFFFE) EXIT(32) is called 11013 times.
+[ 7167.143034] CPUID(0x4FFFFFFE) EXIT(33) is called 0 times.
+[ 7167.149718] CPUID(0x4FFFFFFE) EXIT(34) is called 0 times.
+[ 7167.156425] CPUID(0x4FFFFFFE) EXIT(35) is not defined in KVM
+[ 7167.163268] CPUID(0x4FFFFFFE) EXIT(36) is called 0 times.
+[ 7167.169969] CPUID(0x4FFFFFFE) EXIT(37) is called 0 times.
+[ 7167.176746] CPUID(0x4FFFFFFE) EXIT(38) is not defined in KVM
+[ 7167.183591] CPUID(0x4FFFFFFE) EXIT(39) is called 0 times.
+[ 7167.190242] CPUID(0x4FFFFFFE) EXIT(40) is called 0 times.
+[ 7167.196925] CPUID(0x4FFFFFFE) EXIT(41) is called 0 times.
+[ 7167.203905] CPUID(0x4FFFFFFE) EXIT(42) is not defined in KVM
+[ 7167.210705] CPUID(0x4FFFFFFE) EXIT(43) is called 0 times.
+[ 7167.217960] CPUID(0x4FFFFFFE) EXIT(44) is called 0 times.
+[ 7167.224966] CPUID(0x4FFFFFFE) EXIT(45) is called 0 times.
+[ 7167.231798] CPUID(0x4FFFFFFE) EXIT(46) is called 0 times.
+[ 7167.238625] CPUID(0x4FFFFFFE) EXIT(47) is called 0 times.
+[ 7167.245331] CPUID(0x4FFFFFFE) EXIT(48) is called 10737 times.
+[ 7167.252105] CPUID(0x4FFFFFFE) EXIT(49) is called 169656 times.
+[ 7167.258849] CPUID(0x4FFFFFFE) EXIT(50) is called 0 times.
+[ 7167.265580] CPUID(0x4FFFFFFE) EXIT(51) is called 0 times.
+[ 7167.272366] CPUID(0x4FFFFFFE) EXIT(52) is called 0 times.
+[ 7167.279126] CPUID(0x4FFFFFFE) EXIT(53) is called 0 times.
+[ 7167.285799] CPUID(0x4FFFFFFE) EXIT(54) is called 6 times.
+[ 7167.292619] CPUID(0x4FFFFFFE) EXIT(55) is called 0 times.
+[ 7167.299320] CPUID(0x4FFFFFFE) EXIT(56) is called 0 times.
+[ 7167.305958] CPUID(0x4FFFFFFE) EXIT(57) is called 0 times.
+[ 7167.312655] CPUID(0x4FFFFFFE) EXIT(58) is called 0 times.
+[ 7167.319298] CPUID(0x4FFFFFFE) EXIT(59) is called 0 times.
+[ 7167.325908] CPUID(0x4FFFFFFE) EXIT(60) is called 0 times.
+[ 7167.332689] CPUID(0x4FFFFFFE) EXIT(61) is called 0 times.
+[ 7167.339291] CPUID(0x4FFFFFFE) EXIT(62) is called 0 times.
+[ 7167.345997] CPUID(0x4FFFFFFE) EXIT(63) is called 0 times.
+[ 7167.352772] CPUID(0x4FFFFFFE) EXIT(64) is called 0 times.
+[ 7167.359558] CPUID(0x4FFFFFFE) EXIT(65) is not defined in KVM
+[ 7167.366294] CPUID(0x4FFFFFFE) EXIT(66) is not defined in KVM
+[ 7167.373155] CPUID(0x4FFFFFFE) EXIT(67) is called 0 times.
+[ 7167.380053] CPUID(0x4FFFFFFE) EXIT(68) is called 0 times.
+[ 7167.386842] CPUID(0x4FFFFFFE) EXIT(69) is not defined in KVM
+[ 7167.393738] CPUID(0x4FFFFFFE) EXIT(70) is not defined in KVM
+[ 7167.401514] CPUID(0x4FFFFFFE) EXIT(71) is not defined in KVM
+[ 7167.409282] CPUID(0x4FFFFFFE) EXIT(72) is not defined in KVM
+[ 7167.417237] CPUID(0x4FFFFFFE) EXIT(73) is not defined in KVM
+[ 7167.425036] CPUID(0x4FFFFFFE) EXIT(74) is not defined in SDM
+[ 7167.432835] CPUID(0x4FFFFFFE) EXIT(75) is not defined in KVM
+[ 7167.440737] CPUID(0x4FFFFFFE) EXIT(76) is not defined in KVM
+[ 7174.970050] CPUID(0x4FFFFFFF) Total Cycles for EXIT(0): 1595288
+[ 7174.970056] CPUID(0x4FFFFFFF) Total Cycles for EXIT(0): 1595288
+               	ebx=0 & ecx=1595288
+[ 7174.977755] CPUID(0x4FFFFFFF) Total Cycles for EXIT(1): 1856182
+[ 7174.977759] CPUID(0x4FFFFFFF) Total Cycles for EXIT(1): 1856182
+               	ebx=0 & ecx=1856182
+[ 7174.985512] CPUID(0x4FFFFFFF) Total Cycles for EXIT(2): 0
+[ 7174.985516] CPUID(0x4FFFFFFF) Total Cycles for EXIT(2): 0
+               	ebx=0 & ecx=0
+[ 7174.993176] CPUID(0x4FFFFFFF) Total Cycles for EXIT(3): 0
+[ 7174.993180] CPUID(0x4FFFFFFF) Total Cycles for EXIT(3): 0
+               	ebx=0 & ecx=0
+[ 7175.000904] CPUID(0x4FFFFFFF) Total Cycles for EXIT(4): 0
+[ 7175.000908] CPUID(0x4FFFFFFF) Total Cycles for EXIT(4): 0
+               	ebx=0 & ecx=0
+[ 7175.008972] CPUID(0x4FFFFFFF) EXIT(5) is not defined in KVM
+[ 7175.016971] CPUID(0x4FFFFFFF) EXIT(6) is not defined in KVM
+[ 7175.024713] CPUID(0x4FFFFFFF) Total Cycles for EXIT(7): 2226496
+[ 7175.024716] CPUID(0x4FFFFFFF) Total Cycles for EXIT(7): 2226496
+               	ebx=0 & ecx=2226496
+[ 7175.032435] CPUID(0x4FFFFFFF) Total Cycles for EXIT(8): 0
+[ 7175.032439] CPUID(0x4FFFFFFF) Total Cycles for EXIT(8): 0
+               	ebx=0 & ecx=0
+[ 7175.040146] CPUID(0x4FFFFFFF) Total Cycles for EXIT(9): 0
+[ 7175.040149] CPUID(0x4FFFFFFF) Total Cycles for EXIT(9): 0
+               	ebx=0 & ecx=0
+[ 7175.047188] CPUID(0x4FFFFFFF) Total Cycles for EXIT(10): 40693472
+[ 7175.047192] CPUID(0x4FFFFFFF) Total Cycles for EXIT(10): 40693472
+               	ebx=0 & ecx=40693472
+[ 7175.054034] CPUID(0x4FFFFFFF) EXIT(11) is not defined in KVM
+[ 7175.060786] CPUID(0x4FFFFFFF) Total Cycles for EXIT(12): 3003030
+[ 7175.060790] CPUID(0x4FFFFFFF) Total Cycles for EXIT(12): 3003030
+               	ebx=0 & ecx=3003030
+[ 7175.067544] CPUID(0x4FFFFFFF) Total Cycles for EXIT(13): 0
+[ 7175.067547] CPUID(0x4FFFFFFF) Total Cycles for EXIT(13): 0
+               	ebx=0 & ecx=0
+[ 7175.074723] CPUID(0x4FFFFFFF) Total Cycles for EXIT(14): 0
+[ 7175.074726] CPUID(0x4FFFFFFF) Total Cycles for EXIT(14): 0
+               	ebx=0 & ecx=0
+[ 7175.082522] CPUID(0x4FFFFFFF) Total Cycles for EXIT(15): 0
+[ 7175.082526] CPUID(0x4FFFFFFF) Total Cycles for EXIT(15): 0
+               	ebx=0 & ecx=0
+[ 7175.089953] CPUID(0x4FFFFFFF) Total Cycles for EXIT(16): 0
+[ 7175.089956] CPUID(0x4FFFFFFF) Total Cycles for EXIT(16): 0
+               	ebx=0 & ecx=0
+[ 7175.096781] CPUID(0x4FFFFFFF) EXIT(17) is not defined in KVM
+[ 7175.103641] CPUID(0x4FFFFFFF) Total Cycles for EXIT(18): 0
+[ 7175.103645] CPUID(0x4FFFFFFF) Total Cycles for EXIT(18): 0
+               	ebx=0 & ecx=0
+[ 7175.110521] CPUID(0x4FFFFFFF) Total Cycles for EXIT(19): 0
+[ 7175.110526] CPUID(0x4FFFFFFF) Total Cycles for EXIT(19): 0
+               	ebx=0 & ecx=0
+[ 7175.117334] CPUID(0x4FFFFFFF) Total Cycles for EXIT(20): 0
+[ 7175.117338] CPUID(0x4FFFFFFF) Total Cycles for EXIT(20): 0
+               	ebx=0 & ecx=0
+[ 7175.124304] CPUID(0x4FFFFFFF) Total Cycles for EXIT(21): 0
+[ 7175.124309] CPUID(0x4FFFFFFF) Total Cycles for EXIT(21): 0
+               	ebx=0 & ecx=0
+[ 7175.131185] CPUID(0x4FFFFFFF) Total Cycles for EXIT(22): 0
+[ 7175.131189] CPUID(0x4FFFFFFF) Total Cycles for EXIT(22): 0
+               	ebx=0 & ecx=0
+[ 7175.138195] CPUID(0x4FFFFFFF) Total Cycles for EXIT(23): 0
+[ 7175.138199] CPUID(0x4FFFFFFF) Total Cycles for EXIT(23): 0
+               	ebx=0 & ecx=0
+[ 7175.144913] CPUID(0x4FFFFFFF) Total Cycles for EXIT(24): 0
+[ 7175.144916] CPUID(0x4FFFFFFF) Total Cycles for EXIT(24): 0
+               	ebx=0 & ecx=0
+[ 7175.151746] CPUID(0x4FFFFFFF) Total Cycles for EXIT(25): 0
+[ 7175.151749] CPUID(0x4FFFFFFF) Total Cycles for EXIT(25): 0
+               	ebx=0 & ecx=0
+[ 7175.158441] CPUID(0x4FFFFFFF) Total Cycles for EXIT(26): 0
+[ 7175.158444] CPUID(0x4FFFFFFF) Total Cycles for EXIT(26): 0
+               	ebx=0 & ecx=0
+[ 7175.165183] CPUID(0x4FFFFFFF) Total Cycles for EXIT(27): 0
+[ 7175.165186] CPUID(0x4FFFFFFF) Total Cycles for EXIT(27): 0
+               	ebx=0 & ecx=0
+[ 7175.171968] CPUID(0x4FFFFFFF) Total Cycles for EXIT(28): 100852294
+[ 7175.171972] CPUID(0x4FFFFFFF) Total Cycles for EXIT(28): 100852294
+               	ebx=0 & ecx=100852294
+[ 7175.179094] CPUID(0x4FFFFFFF) Total Cycles for EXIT(29): 17070
+[ 7175.179099] CPUID(0x4FFFFFFF) Total Cycles for EXIT(29): 17070
+               	ebx=0 & ecx=17070
+[ 7175.187045] CPUID(0x4FFFFFFF) Total Cycles for EXIT(30): 2849919030
+[ 7175.187049] CPUID(0x4FFFFFFF) Total Cycles for EXIT(30): 2849919030
+               	ebx=0 & ecx=2849919030
+[ 7175.194886] CPUID(0x4FFFFFFF) Total Cycles for EXIT(31): 512388
+[ 7175.194890] CPUID(0x4FFFFFFF) Total Cycles for EXIT(31): 512388
+               	ebx=0 & ecx=512388
+[ 7175.202637] CPUID(0x4FFFFFFF) Total Cycles for EXIT(32): 82091954
+[ 7175.202641] CPUID(0x4FFFFFFF) Total Cycles for EXIT(32): 82091954
+               	ebx=0 & ecx=82091954
+[ 7175.210414] CPUID(0x4FFFFFFF) Total Cycles for EXIT(33): 0
+[ 7175.210417] CPUID(0x4FFFFFFF) Total Cycles for EXIT(33): 0
+               	ebx=0 & ecx=0
+[ 7175.218209] CPUID(0x4FFFFFFF) Total Cycles for EXIT(34): 0
+[ 7175.218213] CPUID(0x4FFFFFFF) Total Cycles for EXIT(34): 0
+               	ebx=0 & ecx=0
+[ 7175.226011] CPUID(0x4FFFFFFF) EXIT(35) is not defined in KVM
+[ 7175.233745] CPUID(0x4FFFFFFF) Total Cycles for EXIT(36): 0
+[ 7175.233748] CPUID(0x4FFFFFFF) Total Cycles for EXIT(36): 0
+               	ebx=0 & ecx=0
+[ 7175.241381] CPUID(0x4FFFFFFF) Total Cycles for EXIT(37): 0
+[ 7175.241391] CPUID(0x4FFFFFFF) Total Cycles for EXIT(37): 0
+               	ebx=0 & ecx=0
+[ 7175.249130] CPUID(0x4FFFFFFF) EXIT(38) is not defined in KVM
+[ 7175.256944] CPUID(0x4FFFFFFF) Total Cycles for EXIT(39): 0
+[ 7175.256949] CPUID(0x4FFFFFFF) Total Cycles for EXIT(39): 0
+               	ebx=0 & ecx=0
+[ 7175.264760] CPUID(0x4FFFFFFF) Total Cycles for EXIT(40): 0
+[ 7175.264764] CPUID(0x4FFFFFFF) Total Cycles for EXIT(40): 0
+               	ebx=0 & ecx=0
+[ 7175.272543] CPUID(0x4FFFFFFF) Total Cycles for EXIT(41): 0
+[ 7175.272547] CPUID(0x4FFFFFFF) Total Cycles for EXIT(41): 0
+               	ebx=0 & ecx=0
+[ 7175.280410] CPUID(0x4FFFFFFF) EXIT(42) is not defined in KVM
+[ 7175.288590] CPUID(0x4FFFFFFF) Total Cycles for EXIT(43): 0
+[ 7175.288595] CPUID(0x4FFFFFFF) Total Cycles for EXIT(43): 0
+               	ebx=0 & ecx=0
+[ 7175.296807] CPUID(0x4FFFFFFF) Total Cycles for EXIT(44): 0
+[ 7175.296813] CPUID(0x4FFFFFFF) Total Cycles for EXIT(44): 0
+               	ebx=0 & ecx=0
+[ 7175.304658] CPUID(0x4FFFFFFF) Total Cycles for EXIT(45): 0
+[ 7175.304662] CPUID(0x4FFFFFFF) Total Cycles for EXIT(45): 0
+               	ebx=0 & ecx=0
+[ 7175.312727] CPUID(0x4FFFFFFF) Total Cycles for EXIT(46): 0
+[ 7175.312731] CPUID(0x4FFFFFFF) Total Cycles for EXIT(46): 0
+               	ebx=0 & ecx=0
+[ 7175.320539] CPUID(0x4FFFFFFF) Total Cycles for EXIT(47): 0
+[ 7175.320543] CPUID(0x4FFFFFFF) Total Cycles for EXIT(47): 0
+               	ebx=0 & ecx=0
+[ 7175.328296] CPUID(0x4FFFFFFF) Total Cycles for EXIT(48): 373627250
+[ 7175.328300] CPUID(0x4FFFFFFF) Total Cycles for EXIT(48): 373627250
+               	ebx=0 & ecx=373627250
+[ 7175.336087] CPUID(0x4FFFFFFF) Total Cycles for EXIT(49): 2105143914
+[ 7175.336091] CPUID(0x4FFFFFFF) Total Cycles for EXIT(49): 2105143914
+               	ebx=0 & ecx=2105143914
+[ 7175.343839] CPUID(0x4FFFFFFF) Total Cycles for EXIT(50): 0
+[ 7175.343843] CPUID(0x4FFFFFFF) Total Cycles for EXIT(50): 0
+               	ebx=0 & ecx=0
+[ 7175.351617] CPUID(0x4FFFFFFF) Total Cycles for EXIT(51): 0
+[ 7175.351620] CPUID(0x4FFFFFFF) Total Cycles for EXIT(51): 0
+               	ebx=0 & ecx=0
+[ 7175.359452] CPUID(0x4FFFFFFF) Total Cycles for EXIT(52): 0
+[ 7175.359457] CPUID(0x4FFFFFFF) Total Cycles for EXIT(52): 0
+               	ebx=0 & ecx=0
+[ 7175.367264] CPUID(0x4FFFFFFF) Total Cycles for EXIT(53): 0
+[ 7175.367269] CPUID(0x4FFFFFFF) Total Cycles for EXIT(53): 0
+               	ebx=0 & ecx=0
+[ 7175.375042] CPUID(0x4FFFFFFF) Total Cycles for EXIT(54): 5178
+[ 7175.375046] CPUID(0x4FFFFFFF) Total Cycles for EXIT(54): 5178
+               	ebx=0 & ecx=5178
+[ 7175.382892] CPUID(0x4FFFFFFF) Total Cycles for EXIT(55): 0
+[ 7175.382896] CPUID(0x4FFFFFFF) Total Cycles for EXIT(55): 0
+               	ebx=0 & ecx=0
+[ 7175.390647] CPUID(0x4FFFFFFF) Total Cycles for EXIT(56): 0
+[ 7175.390651] CPUID(0x4FFFFFFF) Total Cycles for EXIT(56): 0
+               	ebx=0 & ecx=0
+[ 7175.398422] CPUID(0x4FFFFFFF) Total Cycles for EXIT(57): 0
+[ 7175.398425] CPUID(0x4FFFFFFF) Total Cycles for EXIT(57): 0
+               	ebx=0 & ecx=0
+[ 7175.406137] CPUID(0x4FFFFFFF) Total Cycles for EXIT(58): 0
+[ 7175.406140] CPUID(0x4FFFFFFF) Total Cycles for EXIT(58): 0
+               	ebx=0 & ecx=0
+[ 7175.413851] CPUID(0x4FFFFFFF) Total Cycles for EXIT(59): 0
+[ 7175.413854] CPUID(0x4FFFFFFF) Total Cycles for EXIT(59): 0
+               	ebx=0 & ecx=0
+[ 7175.421519] CPUID(0x4FFFFFFF) Total Cycles for EXIT(60): 0
+[ 7175.421522] CPUID(0x4FFFFFFF) Total Cycles for EXIT(60): 0
+               	ebx=0 & ecx=0
+[ 7175.429100] CPUID(0x4FFFFFFF) Total Cycles for EXIT(61): 0
+[ 7175.429103] CPUID(0x4FFFFFFF) Total Cycles for EXIT(61): 0
+               	ebx=0 & ecx=0
+[ 7175.436879] CPUID(0x4FFFFFFF) Total Cycles for EXIT(62): 0
+[ 7175.436882] CPUID(0x4FFFFFFF) Total Cycles for EXIT(62): 0
+               	ebx=0 & ecx=0
+[ 7175.444607] CPUID(0x4FFFFFFF) Total Cycles for EXIT(63): 0
+[ 7175.444610] CPUID(0x4FFFFFFF) Total Cycles for EXIT(63): 0
+               	ebx=0 & ecx=0
+[ 7175.452406] CPUID(0x4FFFFFFF) Total Cycles for EXIT(64): 0
+[ 7175.452410] CPUID(0x4FFFFFFF) Total Cycles for EXIT(64): 0
+               	ebx=0 & ecx=0
+[ 7175.460207] CPUID(0x4FFFFFFF) EXIT(65) is not defined in KVM
+[ 7175.468032] CPUID(0x4FFFFFFF) EXIT(66) is not defined in KVM
+[ 7175.475868] CPUID(0x4FFFFFFF) Total Cycles for EXIT(67): 0
+[ 7175.475871] CPUID(0x4FFFFFFF) Total Cycles for EXIT(67): 0
+               	ebx=0 & ecx=0
+[ 7175.483615] CPUID(0x4FFFFFFF) Total Cycles for EXIT(68): 0
+[ 7175.483619] CPUID(0x4FFFFFFF) Total Cycles for EXIT(68): 0
+               	ebx=0 & ecx=0
+[ 7175.491316] CPUID(0x4FFFFFFF) EXIT(69) is not defined in KVM
+[ 7175.499089] CPUID(0x4FFFFFFF) EXIT(70) is not defined in KVM
+[ 7175.506809] CPUID(0x4FFFFFFF) EXIT(71) is not defined in KVM
+[ 7175.514464] CPUID(0x4FFFFFFF) EXIT(72) is not defined in KVM
+[ 7175.521984] CPUID(0x4FFFFFFF) EXIT(73) is not defined in KVM
+[ 7175.529693] CPUID(0x4FFFFFFF) EXIT(74) is not defined in SDM
+[ 7175.537310] CPUID(0x4FFFFFFF) EXIT(75) is not defined in KVM
+[ 7175.545024] CPUID(0x4FFFFFFF) EXIT(76) is not defined in KVM
